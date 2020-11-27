@@ -1,5 +1,5 @@
-# chapter-data-types-in-python
-The chapter of data types in Python.
+# chapter-understanding-data-types-in-python
+Chapter: Understanding data types in Python.
 
 ## Topics
 
